@@ -1,6 +1,6 @@
 # Exercici GIT 2: Ús de l'historial de canvis
 
-##Exercici 1
+## Exercici 1
 
 1. Mostra l'historial de canvis del repositori.
 - git log
