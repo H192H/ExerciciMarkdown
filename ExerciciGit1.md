@@ -52,17 +52,8 @@ l'índex."
   
 ## Exercici 6
 
- Indica a Git que vols ignorar tots els fitxers que comencen per "daw", tots els que tenen
-l'extensió out i les imatges (jpg, png, bmp i gif).
-- nano .gitignore
- Ignorar fitxers que comencen per "daw"
-daw*
- Ignorar fitxers amb extensió out
-*.out
- Ignorar imatges
-*.jpg
-*.png
-*.bmp
-*.gif
+ 1. Indica a Git que vols ignorar tots els fitxers que comencen per "daw", tots els que tenen
+ l'extensió out i les imatges (jpg, png, bmp i gif).
+- nano .gitignore 
 - git add .gitignore
 - git commit -m "Afegit .gitignore per ignorar fitxers específics."
